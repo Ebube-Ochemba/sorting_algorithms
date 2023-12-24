@@ -20,9 +20,13 @@ I learnt about...
 ## Files
 
 > Each file contains the solution to a task in the project.
+> The \*-O files contain the big O notations of the time complexity of the different sorting algorithm, with 1 notation per line:
+>	- in the best case
+>	- in the average case
+>	- in the worst case
 
-- [0-bubble_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/0-bubble_sort.c):
-	- [0-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/0-O):
+- [0-bubble_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/0-bubble_sort.c): A function that sorts an array of integers in ascending order using the Bubble sort algorithm.
+	- [0-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/0-O): 
 - [1-insertion_sort_list.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/1-insertion_sort_list.c):
 	- [1-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/1-O):
 - [2-selection_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/2-selection_sort.c):
