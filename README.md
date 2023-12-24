@@ -20,7 +20,8 @@ I learnt about...
 ## Files
 
 > Each file contains the solution to a task in the project.
-> The \*-O files contain the big O notations of the time complexity of the different sorting algorithm, with 1 notation per line:
+
+> Each of the `\*-O` files contains the big O notations of the time complexity of the different sorting algorithm, with 1 notation per line:
 >	- in the best case
 >	- in the average case
 >	- in the worst case
