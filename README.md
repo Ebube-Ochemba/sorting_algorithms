@@ -1,20 +1,18 @@
 # 0x1B. C - Sorting algorithms & Big O
 
-> This project was on ...
+> This project was on Sorting algorithms & Big O in C.
 
 ## Summary
 
-I learnt about...
+I learnt about the Big O notation and how to evaluate the time complexity of an algorithm, how to select the best sorting algorithm for a given input and also what a stable sorting algorithm is.
 
 ## Requirements
 
-- Standard libraries are not allowed, except specified. `printf`, `puts`, etc.
-
-## Environment
-
 - Language: C
+- Standard libraries are not allowed, **except specified**. i.e.`printf`, `puts`, etc. are not allowed.
 - OS: Ubuntu 20.04 LTS
 - Compiler: gcc 4.8.4
+- Compiler options: `-Wall` `-Werror` `-Wextra` `-pedantic` `-std=gnu89`
 - Style guidelines: [Betty style](https://github.com/holbertonschool/Betty/wiki)
 
 ## Files
