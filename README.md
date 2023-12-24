@@ -21,20 +21,20 @@ I learnt about...
 
 > Each file contains the solution to a task in the project.
 
-> Each of the `\*-O` files contains the big O notations of the time complexity of the different sorting algorithm, with 1 notation per line:
+> Each of the `*-O` files contains the big O notations of the time complexity of the different sorting algorithm, with 1 notation per line:
 >	- in the best case
 >	- in the average case
 >	- in the worst case
 
 - [0-bubble_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/0-bubble_sort.c): A function that sorts an array of integers in ascending order using the Bubble sort algorithm.
-	- [0-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/0-O): 
-- [1-insertion_sort_list.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/1-insertion_sort_list.c):
-	- [1-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/1-O):
-- [2-selection_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/2-selection_sort.c):
-	- [2-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/2-O):
-- [3-quick_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/3-quick_sort.c):
-	- [3-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/3-O):
-- [100-shell_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/100-shell_sort.c):
+	- [0-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/0-O): The time complexity of the Bubble sort algorithm.
+- [1-insertion_sort_list.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/1-insertion_sort_list.c): A function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm.
+	- [1-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/1-O): The time complexity of the Insertion sort algorithm.
+- [2-selection_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/2-selection_sort.c): A function that sorts an array of integers in ascending order using the Selection sort algorithm.
+	- [2-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/2-O): The time complexity of the Selection sort algorithm.
+- [3-quick_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/3-quick_sort.c): A function that sorts an array of integers in ascending order using the Quick sort algorithm.
+	- [3-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/3-O): The time complexity of the Quick sort algorithm.
+- [100-shell_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/100-shell_sort.c): A function that sorts an array of integers in ascending order using the Shell sort algorithm, using the `Knuth sequence`.
 - [101-cocktail_sort_list.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/101-cocktail_sort_list.c):
 	- [101-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/101-O):
 - [102-counting_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/102-counting_sort.c):
