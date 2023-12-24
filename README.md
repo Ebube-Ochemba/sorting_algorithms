@@ -30,24 +30,21 @@ I learnt about...
 - [3-quick_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/3-quick_sort.c):
 	- [3-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/3-O):
 - [100-shell_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/100-shell_sort.c):
-- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
-	- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
-- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
-	- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
-- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/0-bubble_sort.c):
-	- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
-- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
-	- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
-- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
-	- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
-- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
-	- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
-- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
-	- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
-- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
-	- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
-- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
-	- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
+- [101-cocktail_sort_list.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/101-cocktail_sort_list.c):
+	- [101-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/101-O):
+- [102-counting_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/102-counting_sort.c):
+	- [102-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/102-O):
+- [103-merge_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/103-merge_sort.c):
+	- [103-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/102-O):
+- [104-heap_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/104-heap_sort.c):
+	- [104-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/104-O):
+- [105-radix_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/105-radix_sort.c):
+- [106-bitonic_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/106-bitonic_sort.c):
+	- [106-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/106-O):
+- [107-quick_sort_hoare.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/107-quick_sort_hoare.c):
+	- [107-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/107-O):
+- [1000-sort_deck.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/1000-sort_deck.c):
+	- [deck.h](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/deck.h):
 
 > - [sort.h](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/sort.h): A Header file containing prototypes for all functions written in the project.
 > - [print_array.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/print_array.c): A function that prints an array of integers. Provided by Alx.
