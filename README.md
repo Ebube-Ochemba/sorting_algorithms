@@ -35,8 +35,10 @@ I learnt about...
 - []():
 - []():
 
-> - [sort.h](): A Header file containing prototypes for all functions written in the project.
-> - [main_files](): A folder of test files. Provided by Alx.
+> - [sort.h](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/sort.h): A Header file containing prototypes for all functions written in the project.
+> - [print_array.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/print_array.c): A function that prints an array of integers. Provided by Alx.
+> - [print_list.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/print_list.c): A function that prints a list of integers. Provided by Alx.
+> - [main_files](https://github.com/Ebube-Ochemba/sorting_algorithms/tree/master/main_files): A folder of test files. Provided by Alx.
 
 ## Credits
 
