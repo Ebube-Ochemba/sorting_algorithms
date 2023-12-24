@@ -21,19 +21,33 @@ I learnt about...
 
 > Each file contains the solution to a task in the project.
 
-- []():
-- []():
-- []():
-- []():
-- []():
-- []():
-- []():
-- []():
-- []():
-- []():
-- []():
-- []():
-- []():
+- [0-bubble_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/0-bubble_sort.c):
+	- [0-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/0-O):
+- [1-insertion_sort_list.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/1-insertion_sort_list.c):
+	- [1-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/1-O):
+- [2-selection_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/2-selection_sort.c):
+	- [2-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/2-O):
+- [3-quick_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/3-quick_sort.c):
+	- [3-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/3-O):
+- [100-shell_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/100-shell_sort.c):
+- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
+	- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
+- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
+	- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
+- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/0-bubble_sort.c):
+	- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
+- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
+	- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
+- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
+	- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
+- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
+	- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
+- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
+	- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
+- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
+	- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
+- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
+	- [](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/):
 
 > - [sort.h](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/sort.h): A Header file containing prototypes for all functions written in the project.
 > - [print_array.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/print_array.c): A function that prints an array of integers. Provided by Alx.
