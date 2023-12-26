@@ -24,29 +24,29 @@ I learnt about the Big O notation and how to evaluate the time complexity of an 
 >	- in the average case
 >	- in the worst case
 
-- [0-bubble_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/0-bubble_sort.c): A function that sorts an array of integers in ascending order using the Bubble sort algorithm.
+- [x] [0-bubble_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/0-bubble_sort.c): A function that sorts an array of integers in ascending order using the Bubble sort algorithm.
 	- [0-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/0-O): The time complexity of the Bubble sort algorithm.
-- [1-insertion_sort_list.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/1-insertion_sort_list.c): A function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm.
+- [x] [1-insertion_sort_list.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/1-insertion_sort_list.c): A function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm.
 	- [1-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/1-O): The time complexity of the Insertion sort algorithm.
-- [2-selection_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/2-selection_sort.c): A function that sorts an array of integers in ascending order using the Selection sort algorithm.
+- [x] [2-selection_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/2-selection_sort.c): A function that sorts an array of integers in ascending order using the Selection sort algorithm.
 	- [2-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/2-O): The time complexity of the Selection sort algorithm.
-- [3-quick_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/3-quick_sort.c): A function that sorts an array of integers in ascending order using the Quick sort algorithm.
+- [x] [3-quick_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/3-quick_sort.c): A function that sorts an array of integers in ascending order using the Quick sort algorithm.
 	- [3-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/3-O): The time complexity of the Quick sort algorithm.
-- [100-shell_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/100-shell_sort.c): A function that sorts an array of integers in ascending order using the Shell sort algorithm, using the `Knuth sequence`.
-- [101-cocktail_sort_list.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/101-cocktail_sort_list.c): A function that sorts a doubly linked list of integers in ascending order using the Cocktail shaker sort algorithm.
+- [x] [100-shell_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/100-shell_sort.c): A function that sorts an array of integers in ascending order using the Shell sort algorithm, using the `Knuth sequence`.
+- [x] [101-cocktail_sort_list.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/101-cocktail_sort_list.c): A function that sorts a doubly linked list of integers in ascending order using the Cocktail shaker sort algorithm.
 	- [101-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/101-O): The time complexity of the Cocktail shaker sort algorithm.
-- [102-counting_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/102-counting_sort.c): A function that sorts an array of integers in ascending order using the Counting sort algorithm.
+- [x] [102-counting_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/102-counting_sort.c): A function that sorts an array of integers in ascending order using the Counting sort algorithm.
 	- [102-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/102-O): The time complexity of the Counting sort algorithm.
-- [103-merge_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/103-merge_sort.c): A function that sorts an array of integers in ascending order using the Merge sort algorithm.
+- [ ] [103-merge_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/103-merge_sort.c): A function that sorts an array of integers in ascending order using the Merge sort algorithm.
 	- [103-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/102-O): The time complexity of the Merge sort algorithm.
-- [104-heap_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/104-heap_sort.c): A function that sorts an array of integers in ascending order using the Heap sort algorithm
+- [x] [104-heap_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/104-heap_sort.c): A function that sorts an array of integers in ascending order using the Heap sort algorithm
 	- [104-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/104-O): The time complexity of the Heap sort algorithm.
-- [105-radix_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/105-radix_sort.c): A function that sorts an array of integers in ascending order using the Radix sort algorithm.
-- [106-bitonic_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/106-bitonic_sort.c): A function that sorts an array of integers in ascending order using the Bitonic sort algorithm.
+- [x] [105-radix_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/105-radix_sort.c): A function that sorts an array of integers in ascending order using the Radix sort algorithm.
+- [ ] [106-bitonic_sort.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/106-bitonic_sort.c): A function that sorts an array of integers in ascending order using the Bitonic sort algorithm.
 	- [106-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/106-O): The time complexity of the Bitonic sort algorithm.
-- [107-quick_sort_hoare.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/107-quick_sort_hoare.c): A function that sorts an array of integers in ascending order using the Quick sort algorithm, implemented with the `Hoare` partition scheme.
+- [x] [107-quick_sort_hoare.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/107-quick_sort_hoare.c): A function that sorts an array of integers in ascending order using the Quick sort algorithm, implemented with the `Hoare` partition scheme.
 	- [107-O](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/107-O): The time complexity of the Quick sort algorithm.
-- [1000-sort_deck.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/1000-sort_deck.c): A function that sorts a deck of cards.
+- [ ] [1000-sort_deck.c](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/1000-sort_deck.c): A function that sorts a deck of cards.
 	- [deck.h](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/deck.h): A header file that contains the used data structures definition for this task.
 
 > - [sort.h](https://github.com/Ebube-Ochemba/sorting_algorithms/blob/master/sort.h): A Header file containing prototypes for all functions written in the project.
